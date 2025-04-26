@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+transformers
+diffusers
+accelerate
+safetensors
+huggingface_hub
+gradio
+Pillow
+einops
+scipy
+torchsde
+aiohttp
+comfyui-frontend-package
